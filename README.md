@@ -9,6 +9,8 @@ The first phase of the Hedz release is a Chain/Saw Collector Mint. During this p
     * Infinite Pressure
     * Tozzi Ducks
 
+# Chain/Saw Collector Hedz Allocation
+According to the breakdown above, Chain/Saw Collectors have been allocated a total of `616` possible mints. The final number of Hedz minted during this phase will vary depending on Collector turnout.
 # How To Check Your Hedz Allowance
 If you are a collector of one or more of the collections above, you can check to see how many Hedz you'll be able to mint by looking up your wallet address in `collectorsWhitelist.json` and finding the associated `amount`. For example, the entry below indicates account `0x33ec...20e2` can mint 3 Hedz during the Collectors Mint:
 
